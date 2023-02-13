@@ -1,0 +1,16 @@
+total 44
+-rwxr--r-- 1 root root  32 Feb 13 07:02 0-hello_world
+-rwxrw-r-- 1 root root   0 Feb 13 11:13 0-mac_and_cheese
+-rwxr--r-- 1 root root  28 Feb 13 07:18 1-confused_smiley
+-rwxr--r-- 1 root root  28 Feb 13 07:55 2-hellofile
+-rwxr--r-- 1 root root  39 Feb 13 07:50 3-twofiles
+-rwxr--r-- 1 root root  33 Feb 13 08:01 4-lastlines
+-rwxr--r-- 1 root root  33 Feb 13 08:05 5-firstlines
+-rwxr--r-- 1 root root  36 Feb 13 09:03 6-third_line
+-rwxrw-r-- 1 root root  97 Feb 13 11:33 7-file
+-rwxrw-r-- 1 root root   0 Feb 13 11:13 7-file~
+-rwxrw-r-- 1 root root  35 Feb 13 11:59 8-cwd_state
+-rw-r--r-- 1 root root 744 Feb 13 09:22 iacta
+-rw-r--r-- 1 root root   0 Feb 13 12:01 ls_cwd_content
+-rw-rw-r-- 1 root root   0 Feb 13 11:13 Makefile
+-rw-r--r-- 1 root root 242 Feb 13 11:54 README.md
