@@ -1,2 +1,2 @@
 #!/bain/bash
-sort list | uniq -u
+sort | uniq -u
